@@ -1,0 +1,3 @@
+[submodule "testbed"]
+	path = testbed
+	url = https://github.com/COMSYS/HTTP-3-Prioritization.git
